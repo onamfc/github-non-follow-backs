@@ -23,7 +23,7 @@ A Python tool to help you unfollow GitHub users who are not following you back. 
 1. Clone this repository:
 ```bash
 git clone https://github.com/onamfc/github-non-follow-backs.git
-cd GithubNonFollwBacks
+cd github-non-follow-backs
 ```
 
 2. Install required dependencies:
