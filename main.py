@@ -4,7 +4,7 @@ GitHub Unfollow Tool
 A tool to unfollow GitHub users who are not following you back.
 Respects GitHub API rate limits and terms of service.
 
-Author: Brandon Estrella
+Author: Brandon Estrella 
 License: MIT
 """
 
