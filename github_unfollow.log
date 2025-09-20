@@ -1,0 +1,931 @@
+2025-09-19 17:18:02,320 - INFO - Database initialized successfully
+2025-09-19 17:18:02,321 - INFO - Database initialized successfully
+2025-09-19 17:18:18,443 - INFO - Database initialized successfully
+2025-09-19 17:18:18,444 - INFO - Starting sync of followers and following lists
+2025-09-19 17:18:18,444 - INFO - Fetching users I'm following...
+2025-09-19 17:18:18,444 - INFO - Fetching following page 1
+2025-09-19 17:18:20,430 - INFO - Collected 100 following users so far
+2025-09-19 17:18:20,430 - INFO - Fetching following page 2
+2025-09-19 17:18:22,142 - INFO - Collected 200 following users so far
+2025-09-19 17:18:22,142 - INFO - Fetching following page 3
+2025-09-19 17:18:23,952 - INFO - Collected 300 following users so far
+2025-09-19 17:18:23,953 - INFO - Fetching following page 4
+2025-09-19 17:18:25,760 - INFO - Collected 400 following users so far
+2025-09-19 17:18:25,760 - INFO - Fetching following page 5
+2025-09-19 17:18:27,447 - INFO - Collected 500 following users so far
+2025-09-19 17:18:27,447 - INFO - Fetching following page 6
+2025-09-19 17:18:29,197 - INFO - Collected 600 following users so far
+2025-09-19 17:18:29,197 - INFO - Fetching following page 7
+2025-09-19 17:18:30,976 - INFO - Collected 700 following users so far
+2025-09-19 17:18:30,976 - INFO - Fetching following page 8
+2025-09-19 17:18:32,816 - INFO - Collected 800 following users so far
+2025-09-19 17:18:32,816 - INFO - Fetching following page 9
+2025-09-19 17:18:34,516 - INFO - Collected 900 following users so far
+2025-09-19 17:18:34,516 - INFO - Fetching following page 10
+2025-09-19 17:18:36,249 - INFO - Collected 1000 following users so far
+2025-09-19 17:18:36,249 - INFO - Fetching following page 11
+2025-09-19 17:18:37,590 - INFO - Collected 1100 following users so far
+2025-09-19 17:18:37,591 - INFO - Fetching following page 12
+2025-09-19 17:18:39,328 - INFO - Collected 1200 following users so far
+2025-09-19 17:18:39,328 - INFO - Fetching following page 13
+2025-09-19 17:18:41,034 - INFO - Collected 1300 following users so far
+2025-09-19 17:18:41,034 - INFO - Fetching following page 14
+2025-09-19 17:18:42,526 - INFO - Collected 1400 following users so far
+2025-09-19 17:18:42,526 - INFO - Fetching following page 15
+2025-09-19 17:18:43,958 - INFO - Collected 1500 following users so far
+2025-09-19 17:18:43,958 - INFO - Fetching following page 16
+2025-09-19 17:18:45,289 - INFO - Collected 1600 following users so far
+2025-09-19 17:18:45,289 - INFO - Fetching following page 17
+2025-09-19 17:18:47,280 - INFO - Collected 1700 following users so far
+2025-09-19 17:18:47,281 - INFO - Fetching following page 18
+2025-09-19 17:18:48,992 - INFO - Collected 1800 following users so far
+2025-09-19 17:18:48,992 - INFO - Fetching following page 19
+2025-09-19 17:18:50,714 - INFO - Collected 1900 following users so far
+2025-09-19 17:18:50,715 - INFO - Fetching following page 20
+2025-09-19 17:18:52,435 - INFO - Collected 2000 following users so far
+2025-09-19 17:18:52,435 - INFO - Fetching following page 21
+2025-09-19 17:18:54,155 - INFO - Collected 2100 following users so far
+2025-09-19 17:18:54,155 - INFO - Fetching following page 22
+2025-09-19 17:18:55,886 - INFO - Collected 2200 following users so far
+2025-09-19 17:18:55,887 - INFO - Fetching following page 23
+2025-09-19 17:18:57,595 - INFO - Collected 2300 following users so far
+2025-09-19 17:18:57,595 - INFO - Fetching following page 24
+2025-09-19 17:18:59,357 - INFO - Collected 2400 following users so far
+2025-09-19 17:18:59,358 - INFO - Fetching following page 25
+2025-09-19 17:19:00,716 - INFO - Collected 2500 following users so far
+2025-09-19 17:19:00,717 - INFO - Fetching following page 26
+2025-09-19 17:19:02,397 - INFO - Collected 2600 following users so far
+2025-09-19 17:19:02,397 - INFO - Fetching following page 27
+2025-09-19 17:19:03,756 - INFO - Collected 2700 following users so far
+2025-09-19 17:19:03,758 - INFO - Fetching following page 28
+2025-09-19 17:19:05,263 - INFO - Collected 2800 following users so far
+2025-09-19 17:19:05,263 - INFO - Fetching following page 29
+2025-09-19 17:19:06,980 - INFO - Collected 2900 following users so far
+2025-09-19 17:19:06,980 - INFO - Fetching following page 30
+2025-09-19 17:19:08,359 - INFO - Collected 3000 following users so far
+2025-09-19 17:19:08,359 - INFO - Fetching following page 31
+2025-09-19 17:19:09,696 - INFO - Collected 3100 following users so far
+2025-09-19 17:19:09,697 - INFO - Fetching following page 32
+2025-09-19 17:19:11,075 - INFO - Collected 3200 following users so far
+2025-09-19 17:19:11,075 - INFO - Fetching following page 33
+2025-09-19 17:19:12,807 - INFO - Collected 3300 following users so far
+2025-09-19 17:19:12,807 - INFO - Fetching following page 34
+2025-09-19 17:19:14,180 - INFO - Collected 3400 following users so far
+2025-09-19 17:19:14,180 - INFO - Fetching following page 35
+2025-09-19 17:19:15,572 - INFO - Collected 3500 following users so far
+2025-09-19 17:19:15,572 - INFO - Fetching following page 36
+2025-09-19 17:19:17,293 - INFO - Collected 3600 following users so far
+2025-09-19 17:19:17,293 - INFO - Fetching following page 37
+2025-09-19 17:19:19,106 - INFO - Collected 3700 following users so far
+2025-09-19 17:19:19,106 - INFO - Fetching following page 38
+2025-09-19 17:19:20,461 - INFO - Collected 3800 following users so far
+2025-09-19 17:19:20,461 - INFO - Fetching following page 39
+2025-09-19 17:19:22,435 - INFO - Collected 3900 following users so far
+2025-09-19 17:19:22,435 - INFO - Fetching following page 40
+2025-09-19 17:19:24,126 - INFO - Collected 4000 following users so far
+2025-09-19 17:19:24,127 - INFO - Fetching following page 41
+2025-09-19 17:19:25,609 - INFO - Collected 4100 following users so far
+2025-09-19 17:19:25,609 - INFO - Fetching following page 42
+2025-09-19 17:19:27,454 - INFO - Collected 4200 following users so far
+2025-09-19 17:19:27,454 - INFO - Fetching following page 43
+2025-09-19 17:19:29,145 - INFO - Collected 4300 following users so far
+2025-09-19 17:19:29,145 - INFO - Fetching following page 44
+2025-09-19 17:19:30,499 - INFO - Collected 4400 following users so far
+2025-09-19 17:19:30,500 - INFO - Fetching following page 45
+2025-09-19 17:19:32,207 - INFO - Collected 4500 following users so far
+2025-09-19 17:19:32,207 - INFO - Fetching following page 46
+2025-09-19 17:19:33,580 - INFO - Collected 4600 following users so far
+2025-09-19 17:19:33,581 - INFO - Fetching following page 47
+2025-09-19 17:19:35,225 - INFO - Collected 4700 following users so far
+2025-09-19 17:19:35,225 - INFO - Fetching following page 48
+2025-09-19 17:19:37,025 - INFO - Collected 4800 following users so far
+2025-09-19 17:19:37,025 - INFO - Fetching following page 49
+2025-09-19 17:19:38,384 - INFO - Collected 4900 following users so far
+2025-09-19 17:19:38,385 - INFO - Fetching following page 50
+2025-09-19 17:19:39,730 - INFO - Collected 5000 following users so far
+2025-09-19 17:19:39,730 - INFO - Fetching following page 51
+2025-09-19 17:19:41,098 - INFO - Collected 5100 following users so far
+2025-09-19 17:19:41,098 - INFO - Fetching following page 52
+2025-09-19 17:19:42,470 - INFO - Collected 5200 following users so far
+2025-09-19 17:19:42,470 - INFO - Fetching following page 53
+2025-09-19 17:19:43,802 - INFO - Collected 5300 following users so far
+2025-09-19 17:19:43,802 - INFO - Fetching following page 54
+2025-09-19 17:19:45,536 - INFO - Collected 5400 following users so far
+2025-09-19 17:19:45,536 - INFO - Fetching following page 55
+2025-09-19 17:19:47,310 - INFO - Collected 5500 following users so far
+2025-09-19 17:19:47,310 - INFO - Fetching following page 56
+2025-09-19 17:19:48,673 - INFO - Collected 5600 following users so far
+2025-09-19 17:19:48,673 - INFO - Fetching following page 57
+2025-09-19 17:19:50,471 - INFO - Collected 5700 following users so far
+2025-09-19 17:19:50,471 - INFO - Fetching following page 58
+2025-09-19 17:19:51,858 - INFO - Collected 5800 following users so far
+2025-09-19 17:19:51,859 - INFO - Fetching following page 59
+2025-09-19 17:19:53,225 - INFO - Collected 5900 following users so far
+2025-09-19 17:19:53,225 - INFO - Fetching following page 60
+2025-09-19 17:19:54,642 - INFO - Collected 6000 following users so far
+2025-09-19 17:19:54,642 - INFO - Fetching following page 61
+2025-09-19 17:19:56,183 - INFO - Collected 6100 following users so far
+2025-09-19 17:19:56,183 - INFO - Fetching following page 62
+2025-09-19 17:19:57,577 - INFO - Collected 6200 following users so far
+2025-09-19 17:19:57,577 - INFO - Fetching following page 63
+2025-09-19 17:19:58,945 - INFO - Collected 6300 following users so far
+2025-09-19 17:19:58,945 - INFO - Fetching following page 64
+2025-09-19 17:20:00,384 - INFO - Collected 6400 following users so far
+2025-09-19 17:20:00,385 - INFO - Fetching following page 65
+2025-09-19 17:20:01,754 - INFO - Collected 6500 following users so far
+2025-09-19 17:20:01,754 - INFO - Fetching following page 66
+2025-09-19 17:20:03,521 - INFO - Collected 6600 following users so far
+2025-09-19 17:20:03,521 - INFO - Fetching following page 67
+2025-09-19 17:20:05,287 - INFO - Collected 6700 following users so far
+2025-09-19 17:20:05,287 - INFO - Fetching following page 68
+2025-09-19 17:20:07,158 - INFO - Collected 6800 following users so far
+2025-09-19 17:20:07,158 - INFO - Fetching following page 69
+2025-09-19 17:20:09,010 - INFO - Collected 6900 following users so far
+2025-09-19 17:20:09,010 - INFO - Fetching following page 70
+2025-09-19 17:20:10,879 - INFO - Collected 7000 following users so far
+2025-09-19 17:20:10,879 - INFO - Fetching following page 71
+2025-09-19 17:20:12,251 - INFO - Collected 7100 following users so far
+2025-09-19 17:20:12,252 - INFO - Fetching following page 72
+2025-09-19 17:20:13,649 - INFO - Collected 7200 following users so far
+2025-09-19 17:20:13,650 - INFO - Fetching following page 73
+2025-09-19 17:20:15,051 - INFO - Collected 7300 following users so far
+2025-09-19 17:20:15,051 - INFO - Fetching following page 74
+2025-09-19 17:20:16,418 - INFO - Collected 7400 following users so far
+2025-09-19 17:20:16,418 - INFO - Fetching following page 75
+2025-09-19 17:20:17,817 - INFO - Collected 7500 following users so far
+2025-09-19 17:20:17,817 - INFO - Fetching following page 76
+2025-09-19 17:20:19,741 - INFO - Collected 7600 following users so far
+2025-09-19 17:20:19,742 - INFO - Fetching following page 77
+2025-09-19 17:20:21,563 - INFO - Collected 7700 following users so far
+2025-09-19 17:20:21,564 - INFO - Fetching following page 78
+2025-09-19 17:20:23,363 - INFO - Collected 7800 following users so far
+2025-09-19 17:20:23,363 - INFO - Fetching following page 79
+2025-09-19 17:20:25,524 - INFO - Collected 7900 following users so far
+2025-09-19 17:20:25,525 - INFO - Fetching following page 80
+2025-09-19 17:20:26,960 - INFO - Collected 8000 following users so far
+2025-09-19 17:20:26,961 - INFO - Fetching following page 81
+2025-09-19 17:20:28,666 - INFO - Collected 8100 following users so far
+2025-09-19 17:20:28,667 - INFO - Fetching following page 82
+2025-09-19 17:20:30,444 - INFO - Collected 8200 following users so far
+2025-09-19 17:20:30,444 - INFO - Fetching following page 83
+2025-09-19 17:20:32,322 - INFO - Collected 8300 following users so far
+2025-09-19 17:20:32,322 - INFO - Fetching following page 84
+2025-09-19 17:20:34,121 - INFO - Collected 8400 following users so far
+2025-09-19 17:20:34,122 - INFO - Fetching following page 85
+2025-09-19 17:20:36,025 - INFO - Collected 8500 following users so far
+2025-09-19 17:20:36,025 - INFO - Fetching following page 86
+2025-09-19 17:20:37,910 - INFO - Collected 8600 following users so far
+2025-09-19 17:20:37,911 - INFO - Fetching following page 87
+2025-09-19 17:20:39,393 - INFO - Collected 8700 following users so far
+2025-09-19 17:20:39,394 - INFO - Fetching following page 88
+2025-09-19 17:20:41,202 - INFO - Collected 8800 following users so far
+2025-09-19 17:20:41,202 - INFO - Fetching following page 89
+2025-09-19 17:20:42,593 - INFO - Collected 8900 following users so far
+2025-09-19 17:20:42,593 - INFO - Fetching following page 90
+2025-09-19 17:20:43,987 - INFO - Collected 9000 following users so far
+2025-09-19 17:20:43,987 - INFO - Fetching following page 91
+2025-09-19 17:20:45,814 - INFO - Collected 9100 following users so far
+2025-09-19 17:20:45,814 - INFO - Fetching following page 92
+2025-09-19 17:20:47,228 - INFO - Collected 9200 following users so far
+2025-09-19 17:20:47,229 - INFO - Fetching following page 93
+2025-09-19 17:20:48,616 - INFO - Collected 9300 following users so far
+2025-09-19 17:20:48,617 - INFO - Fetching following page 94
+2025-09-19 17:20:50,499 - INFO - Collected 9400 following users so far
+2025-09-19 17:20:50,499 - INFO - Fetching following page 95
+2025-09-19 17:20:52,287 - INFO - Collected 9500 following users so far
+2025-09-19 17:20:52,287 - INFO - Fetching following page 96
+2025-09-19 17:20:53,760 - INFO - Collected 9600 following users so far
+2025-09-19 17:20:53,760 - INFO - Fetching following page 97
+2025-09-19 17:20:55,210 - INFO - Collected 9700 following users so far
+2025-09-19 17:20:55,210 - INFO - Fetching following page 98
+2025-09-19 17:20:56,648 - INFO - Collected 9800 following users so far
+2025-09-19 17:20:56,649 - INFO - Fetching following page 99
+2025-09-19 17:20:58,105 - INFO - Collected 9900 following users so far
+2025-09-19 17:20:58,105 - INFO - Fetching following page 100
+2025-09-19 17:20:59,512 - INFO - Collected 10000 following users so far
+2025-09-19 17:20:59,512 - INFO - Fetching following page 101
+2025-09-19 17:21:00,926 - INFO - Collected 10100 following users so far
+2025-09-19 17:21:00,926 - INFO - Fetching following page 102
+2025-09-19 17:21:02,353 - INFO - Collected 10200 following users so far
+2025-09-19 17:21:02,353 - INFO - Fetching following page 103
+2025-09-19 17:21:04,374 - INFO - Collected 10300 following users so far
+2025-09-19 17:21:04,374 - INFO - Fetching following page 104
+2025-09-19 17:21:06,253 - INFO - Collected 10400 following users so far
+2025-09-19 17:21:06,253 - INFO - Fetching following page 105
+2025-09-19 17:21:07,683 - INFO - Collected 10500 following users so far
+2025-09-19 17:21:07,683 - INFO - Fetching following page 106
+2025-09-19 17:21:09,139 - INFO - Collected 10600 following users so far
+2025-09-19 17:21:09,139 - INFO - Fetching following page 107
+2025-09-19 17:21:10,979 - INFO - Collected 10700 following users so far
+2025-09-19 17:21:10,979 - INFO - Fetching following page 108
+2025-09-19 17:21:12,404 - INFO - Collected 10800 following users so far
+2025-09-19 17:21:12,404 - INFO - Fetching following page 109
+2025-09-19 17:21:13,849 - INFO - Collected 10900 following users so far
+2025-09-19 17:21:13,850 - INFO - Fetching following page 110
+2025-09-19 17:21:15,273 - INFO - Collected 11000 following users so far
+2025-09-19 17:21:15,273 - INFO - Fetching following page 111
+2025-09-19 17:21:16,763 - INFO - Collected 11100 following users so far
+2025-09-19 17:21:16,763 - INFO - Fetching following page 112
+2025-09-19 17:21:18,263 - INFO - Collected 11200 following users so far
+2025-09-19 17:21:18,264 - INFO - Fetching following page 113
+2025-09-19 17:21:19,729 - INFO - Collected 11300 following users so far
+2025-09-19 17:21:19,729 - INFO - Fetching following page 114
+2025-09-19 17:21:21,173 - INFO - Collected 11400 following users so far
+2025-09-19 17:21:21,173 - INFO - Fetching following page 115
+2025-09-19 17:21:23,122 - INFO - Collected 11500 following users so far
+2025-09-19 17:21:23,122 - INFO - Fetching following page 116
+2025-09-19 17:21:24,619 - INFO - Collected 11600 following users so far
+2025-09-19 17:21:24,620 - INFO - Fetching following page 117
+2025-09-19 17:21:26,097 - INFO - Collected 11700 following users so far
+2025-09-19 17:21:26,097 - INFO - Fetching following page 118
+2025-09-19 17:21:27,523 - INFO - Collected 11800 following users so far
+2025-09-19 17:21:27,523 - INFO - Fetching following page 119
+2025-09-19 17:21:29,018 - INFO - Collected 11900 following users so far
+2025-09-19 17:21:29,018 - INFO - Fetching following page 120
+2025-09-19 17:21:30,880 - INFO - Collected 12000 following users so far
+2025-09-19 17:21:30,881 - INFO - Fetching following page 121
+2025-09-19 17:21:32,757 - INFO - Collected 12100 following users so far
+2025-09-19 17:21:32,757 - INFO - Fetching following page 122
+2025-09-19 17:21:34,226 - INFO - Collected 12200 following users so far
+2025-09-19 17:21:34,226 - INFO - Fetching following page 123
+2025-09-19 17:21:35,712 - INFO - Collected 12300 following users so far
+2025-09-19 17:21:35,712 - INFO - Fetching following page 124
+2025-09-19 17:21:37,279 - INFO - Collected 12400 following users so far
+2025-09-19 17:21:37,279 - INFO - Fetching following page 125
+2025-09-19 17:21:39,162 - INFO - Collected 12500 following users so far
+2025-09-19 17:21:39,162 - INFO - Fetching following page 126
+2025-09-19 17:21:40,654 - INFO - Collected 12600 following users so far
+2025-09-19 17:21:40,655 - INFO - Fetching following page 127
+2025-09-19 17:21:42,083 - INFO - Collected 12700 following users so far
+2025-09-19 17:21:42,084 - INFO - Fetching following page 128
+2025-09-19 17:21:43,601 - INFO - Collected 12800 following users so far
+2025-09-19 17:21:43,601 - INFO - Fetching following page 129
+2025-09-19 17:21:45,031 - INFO - Collected 12900 following users so far
+2025-09-19 17:21:45,031 - INFO - Fetching following page 130
+2025-09-19 17:21:46,843 - INFO - Collected 13000 following users so far
+2025-09-19 17:21:46,844 - INFO - Fetching following page 131
+2025-09-19 17:21:48,339 - INFO - Collected 13100 following users so far
+2025-09-19 17:21:48,339 - INFO - Fetching following page 132
+2025-09-19 17:21:49,878 - INFO - Collected 13200 following users so far
+2025-09-19 17:21:49,878 - INFO - Fetching following page 133
+2025-09-19 17:21:51,381 - INFO - Collected 13300 following users so far
+2025-09-19 17:21:51,382 - INFO - Fetching following page 134
+2025-09-19 17:21:52,845 - INFO - Collected 13400 following users so far
+2025-09-19 17:21:52,845 - INFO - Fetching following page 135
+2025-09-19 17:21:54,332 - INFO - Collected 13500 following users so far
+2025-09-19 17:21:54,333 - INFO - Fetching following page 136
+2025-09-19 17:21:55,975 - INFO - Collected 13600 following users so far
+2025-09-19 17:21:55,975 - INFO - Fetching following page 137
+2025-09-19 17:21:58,084 - INFO - Collected 13700 following users so far
+2025-09-19 17:21:58,084 - INFO - Fetching following page 138
+2025-09-19 17:21:59,654 - INFO - Collected 13800 following users so far
+2025-09-19 17:21:59,655 - INFO - Fetching following page 139
+2025-09-19 17:22:01,156 - INFO - Collected 13900 following users so far
+2025-09-19 17:22:01,156 - INFO - Fetching following page 140
+2025-09-19 17:22:03,162 - INFO - Collected 14000 following users so far
+2025-09-19 17:22:03,162 - INFO - Fetching following page 141
+2025-09-19 17:22:04,602 - INFO - Collected 14100 following users so far
+2025-09-19 17:22:04,602 - INFO - Fetching following page 142
+2025-09-19 17:22:06,121 - INFO - Collected 14200 following users so far
+2025-09-19 17:22:06,121 - INFO - Fetching following page 143
+2025-09-19 17:22:07,618 - INFO - Collected 14300 following users so far
+2025-09-19 17:22:07,618 - INFO - Fetching following page 144
+2025-09-19 17:22:09,092 - INFO - Collected 14400 following users so far
+2025-09-19 17:22:09,092 - INFO - Fetching following page 145
+2025-09-19 17:22:10,677 - INFO - Collected 14500 following users so far
+2025-09-19 17:22:10,677 - INFO - Fetching following page 146
+2025-09-19 17:22:12,238 - INFO - Collected 14600 following users so far
+2025-09-19 17:22:12,239 - INFO - Fetching following page 147
+2025-09-19 17:22:13,652 - INFO - Collected 14700 following users so far
+2025-09-19 17:22:13,652 - INFO - Fetching following page 148
+2025-09-19 17:22:15,197 - INFO - Collected 14800 following users so far
+2025-09-19 17:22:15,197 - INFO - Fetching following page 149
+2025-09-19 17:22:16,781 - INFO - Collected 14900 following users so far
+2025-09-19 17:22:16,782 - INFO - Fetching following page 150
+2025-09-19 17:22:18,265 - INFO - Collected 15000 following users so far
+2025-09-19 17:22:18,265 - INFO - Fetching following page 151
+2025-09-19 17:22:19,772 - INFO - Collected 15100 following users so far
+2025-09-19 17:22:19,773 - INFO - Fetching following page 152
+2025-09-19 17:22:21,273 - INFO - Collected 15200 following users so far
+2025-09-19 17:22:21,274 - INFO - Fetching following page 153
+2025-09-19 17:22:22,831 - INFO - Collected 15300 following users so far
+2025-09-19 17:22:22,831 - INFO - Fetching following page 154
+2025-09-19 17:22:24,458 - INFO - Collected 15400 following users so far
+2025-09-19 17:22:24,458 - INFO - Fetching following page 155
+2025-09-19 17:22:25,965 - INFO - Collected 15500 following users so far
+2025-09-19 17:22:25,966 - INFO - Fetching following page 156
+2025-09-19 17:22:27,416 - INFO - Collected 15600 following users so far
+2025-09-19 17:22:27,416 - INFO - Fetching following page 157
+2025-09-19 17:22:29,480 - INFO - Collected 15700 following users so far
+2025-09-19 17:22:29,480 - INFO - Fetching following page 158
+2025-09-19 17:22:30,981 - INFO - Collected 15800 following users so far
+2025-09-19 17:22:30,981 - INFO - Fetching following page 159
+2025-09-19 17:22:32,996 - INFO - Collected 15900 following users so far
+2025-09-19 17:22:32,996 - INFO - Fetching following page 160
+2025-09-19 17:22:34,591 - INFO - Collected 16000 following users so far
+2025-09-19 17:22:34,591 - INFO - Fetching following page 161
+2025-09-19 17:22:36,213 - INFO - Collected 16100 following users so far
+2025-09-19 17:22:36,214 - INFO - Fetching following page 162
+2025-09-19 17:22:37,769 - INFO - Collected 16200 following users so far
+2025-09-19 17:22:37,769 - INFO - Fetching following page 163
+2025-09-19 17:22:39,290 - INFO - Collected 16300 following users so far
+2025-09-19 17:22:39,290 - INFO - Fetching following page 164
+2025-09-19 17:22:40,751 - INFO - Collected 16400 following users so far
+2025-09-19 17:22:40,751 - INFO - Fetching following page 165
+2025-09-19 17:22:42,416 - INFO - Collected 16500 following users so far
+2025-09-19 17:22:42,417 - INFO - Fetching following page 166
+2025-09-19 17:22:44,065 - INFO - Collected 16600 following users so far
+2025-09-19 17:22:44,065 - INFO - Fetching following page 167
+2025-09-19 17:22:45,611 - INFO - Collected 16700 following users so far
+2025-09-19 17:22:45,611 - INFO - Fetching following page 168
+2025-09-19 17:22:47,235 - INFO - Collected 16800 following users so far
+2025-09-19 17:22:47,235 - INFO - Fetching following page 169
+2025-09-19 17:22:48,742 - INFO - Collected 16900 following users so far
+2025-09-19 17:22:48,742 - INFO - Fetching following page 170
+2025-09-19 17:22:50,321 - INFO - Collected 17000 following users so far
+2025-09-19 17:22:50,322 - INFO - Fetching following page 171
+2025-09-19 17:22:51,978 - INFO - Collected 17100 following users so far
+2025-09-19 17:22:51,979 - INFO - Fetching following page 172
+2025-09-19 17:22:53,597 - INFO - Collected 17200 following users so far
+2025-09-19 17:22:53,597 - INFO - Fetching following page 173
+2025-09-19 17:22:55,248 - INFO - Collected 17300 following users so far
+2025-09-19 17:22:55,248 - INFO - Fetching following page 174
+2025-09-19 17:22:56,854 - INFO - Collected 17400 following users so far
+2025-09-19 17:22:56,854 - INFO - Fetching following page 175
+2025-09-19 17:22:58,500 - INFO - Collected 17500 following users so far
+2025-09-19 17:22:58,500 - INFO - Fetching following page 176
+2025-09-19 17:22:59,952 - INFO - Collected 17600 following users so far
+2025-09-19 17:22:59,952 - INFO - Fetching following page 177
+2025-09-19 17:23:01,647 - INFO - Collected 17700 following users so far
+2025-09-19 17:23:01,647 - INFO - Fetching following page 178
+2025-09-19 17:23:03,226 - INFO - Collected 17800 following users so far
+2025-09-19 17:23:03,227 - INFO - Fetching following page 179
+2025-09-19 17:23:05,231 - INFO - Collected 17900 following users so far
+2025-09-19 17:23:05,231 - INFO - Fetching following page 180
+2025-09-19 17:23:06,662 - INFO - Collected 18000 following users so far
+2025-09-19 17:23:06,662 - INFO - Fetching following page 181
+2025-09-19 17:23:08,332 - INFO - Collected 18100 following users so far
+2025-09-19 17:23:08,332 - INFO - Fetching following page 182
+2025-09-19 17:23:09,882 - INFO - Collected 18200 following users so far
+2025-09-19 17:23:09,883 - INFO - Fetching following page 183
+2025-09-19 17:23:11,389 - INFO - Collected 18300 following users so far
+2025-09-19 17:23:11,389 - INFO - Fetching following page 184
+2025-09-19 17:23:12,948 - INFO - Collected 18400 following users so far
+2025-09-19 17:23:12,948 - INFO - Fetching following page 185
+2025-09-19 17:23:14,741 - INFO - Collected 18500 following users so far
+2025-09-19 17:23:14,741 - INFO - Fetching following page 186
+2025-09-19 17:23:16,312 - INFO - Collected 18600 following users so far
+2025-09-19 17:23:16,312 - INFO - Fetching following page 187
+2025-09-19 17:23:18,003 - INFO - Collected 18700 following users so far
+2025-09-19 17:23:18,003 - INFO - Fetching following page 188
+2025-09-19 17:23:19,566 - INFO - Collected 18800 following users so far
+2025-09-19 17:23:19,566 - INFO - Fetching following page 189
+2025-09-19 17:23:21,064 - INFO - Collected 18900 following users so far
+2025-09-19 17:23:21,065 - INFO - Fetching following page 190
+2025-09-19 17:23:22,648 - INFO - Collected 19000 following users so far
+2025-09-19 17:23:22,649 - INFO - Fetching following page 191
+2025-09-19 17:23:24,265 - INFO - Collected 19100 following users so far
+2025-09-19 17:23:24,265 - INFO - Fetching following page 192
+2025-09-19 17:23:25,786 - INFO - Collected 19200 following users so far
+2025-09-19 17:23:25,786 - INFO - Fetching following page 193
+2025-09-19 17:23:27,497 - INFO - Collected 19300 following users so far
+2025-09-19 17:23:27,497 - INFO - Fetching following page 194
+2025-09-19 17:23:28,999 - INFO - Collected 19400 following users so far
+2025-09-19 17:23:29,000 - INFO - Fetching following page 195
+2025-09-19 17:23:30,791 - INFO - Collected 19500 following users so far
+2025-09-19 17:23:30,792 - INFO - Fetching following page 196
+2025-09-19 17:23:32,344 - INFO - Collected 19600 following users so far
+2025-09-19 17:23:32,344 - INFO - Fetching following page 197
+2025-09-19 17:23:33,867 - INFO - Collected 19700 following users so far
+2025-09-19 17:23:33,867 - INFO - Fetching following page 198
+2025-09-19 17:23:35,389 - INFO - Collected 19800 following users so far
+2025-09-19 17:23:35,389 - INFO - Fetching following page 199
+2025-09-19 17:23:37,063 - INFO - Collected 19900 following users so far
+2025-09-19 17:23:37,063 - INFO - Fetching following page 200
+2025-09-19 17:23:38,604 - INFO - Collected 20000 following users so far
+2025-09-19 17:23:38,604 - INFO - Fetching following page 201
+2025-09-19 17:23:40,296 - INFO - Collected 20100 following users so far
+2025-09-19 17:23:40,296 - INFO - Fetching following page 202
+2025-09-19 17:23:41,968 - INFO - Collected 20200 following users so far
+2025-09-19 17:23:41,969 - INFO - Fetching following page 203
+2025-09-19 17:23:43,718 - INFO - Collected 20300 following users so far
+2025-09-19 17:23:43,718 - INFO - Fetching following page 204
+2025-09-19 17:23:45,334 - INFO - Collected 20400 following users so far
+2025-09-19 17:23:45,335 - INFO - Fetching following page 205
+2025-09-19 17:23:46,913 - INFO - Collected 20500 following users so far
+2025-09-19 17:23:46,913 - INFO - Fetching following page 206
+2025-09-19 17:23:48,758 - INFO - Collected 20600 following users so far
+2025-09-19 17:23:48,758 - INFO - Fetching following page 207
+2025-09-19 17:23:50,315 - INFO - Collected 20700 following users so far
+2025-09-19 17:23:50,315 - INFO - Fetching following page 208
+2025-09-19 17:23:51,869 - INFO - Collected 20800 following users so far
+2025-09-19 17:23:51,870 - INFO - Fetching following page 209
+2025-09-19 17:23:53,621 - INFO - Collected 20900 following users so far
+2025-09-19 17:23:53,621 - INFO - Fetching following page 210
+2025-09-19 17:23:55,203 - INFO - Collected 21000 following users so far
+2025-09-19 17:23:55,203 - INFO - Fetching following page 211
+2025-09-19 17:23:56,826 - INFO - Collected 21100 following users so far
+2025-09-19 17:23:56,826 - INFO - Fetching following page 212
+2025-09-19 17:23:58,502 - INFO - Collected 21200 following users so far
+2025-09-19 17:23:58,503 - INFO - Fetching following page 213
+2025-09-19 17:24:00,128 - INFO - Collected 21300 following users so far
+2025-09-19 17:24:00,128 - INFO - Fetching following page 214
+2025-09-19 17:24:01,715 - INFO - Collected 21400 following users so far
+2025-09-19 17:24:01,716 - INFO - Fetching following page 215
+2025-09-19 17:24:03,291 - INFO - Collected 21500 following users so far
+2025-09-19 17:24:03,291 - INFO - Fetching following page 216
+2025-09-19 17:24:04,872 - INFO - Collected 21600 following users so far
+2025-09-19 17:24:04,872 - INFO - Fetching following page 217
+2025-09-19 17:24:06,442 - INFO - Collected 21700 following users so far
+2025-09-19 17:24:06,442 - INFO - Fetching following page 218
+2025-09-19 17:24:08,023 - INFO - Collected 21800 following users so far
+2025-09-19 17:24:08,024 - INFO - Fetching following page 219
+2025-09-19 17:24:09,696 - INFO - Collected 21900 following users so far
+2025-09-19 17:24:09,696 - INFO - Fetching following page 220
+2025-09-19 17:24:11,477 - INFO - Collected 22000 following users so far
+2025-09-19 17:24:11,477 - INFO - Fetching following page 221
+2025-09-19 17:24:13,165 - INFO - Collected 22100 following users so far
+2025-09-19 17:24:13,165 - INFO - Fetching following page 222
+2025-09-19 17:24:14,987 - INFO - Collected 22200 following users so far
+2025-09-19 17:24:14,988 - INFO - Fetching following page 223
+2025-09-19 17:24:16,604 - INFO - Collected 22300 following users so far
+2025-09-19 17:24:16,605 - INFO - Fetching following page 224
+2025-09-19 17:24:18,255 - INFO - Collected 22400 following users so far
+2025-09-19 17:24:18,256 - INFO - Fetching following page 225
+2025-09-19 17:24:20,308 - INFO - Collected 22500 following users so far
+2025-09-19 17:24:20,308 - INFO - Fetching following page 226
+2025-09-19 17:24:22,013 - INFO - Collected 22600 following users so far
+2025-09-19 17:24:22,013 - INFO - Fetching following page 227
+2025-09-19 17:24:23,673 - INFO - Collected 22700 following users so far
+2025-09-19 17:24:23,673 - INFO - Fetching following page 228
+2025-09-19 17:24:25,234 - INFO - Collected 22800 following users so far
+2025-09-19 17:24:25,234 - INFO - Fetching following page 229
+2025-09-19 17:24:27,407 - INFO - Collected 22900 following users so far
+2025-09-19 17:24:27,408 - INFO - Fetching following page 230
+2025-09-19 17:24:28,948 - INFO - Collected 23000 following users so far
+2025-09-19 17:24:28,948 - INFO - Fetching following page 231
+2025-09-19 17:24:31,299 - INFO - Collected 23100 following users so far
+2025-09-19 17:24:31,299 - INFO - Fetching following page 232
+2025-09-19 17:24:32,782 - INFO - Collected 23200 following users so far
+2025-09-19 17:24:32,782 - INFO - Fetching following page 233
+2025-09-19 17:24:34,530 - INFO - Collected 23300 following users so far
+2025-09-19 17:24:34,531 - INFO - Fetching following page 234
+2025-09-19 17:24:36,223 - INFO - Collected 23400 following users so far
+2025-09-19 17:24:36,223 - INFO - Fetching following page 235
+2025-09-19 17:24:37,840 - INFO - Collected 23500 following users so far
+2025-09-19 17:24:37,840 - INFO - Fetching following page 236
+2025-09-19 17:24:39,680 - INFO - Collected 23600 following users so far
+2025-09-19 17:24:39,680 - INFO - Fetching following page 237
+2025-09-19 17:24:41,320 - INFO - Collected 23700 following users so far
+2025-09-19 17:24:41,321 - INFO - Fetching following page 238
+2025-09-19 17:24:42,938 - INFO - Collected 23800 following users so far
+2025-09-19 17:24:42,938 - INFO - Fetching following page 239
+2025-09-19 17:24:44,393 - INFO - Collected 23900 following users so far
+2025-09-19 17:24:44,393 - INFO - Fetching following page 240
+2025-09-19 17:24:46,038 - INFO - Collected 24000 following users so far
+2025-09-19 17:24:46,038 - INFO - Fetching following page 241
+2025-09-19 17:24:47,714 - INFO - Collected 24100 following users so far
+2025-09-19 17:24:47,714 - INFO - Fetching following page 242
+2025-09-19 17:24:49,309 - INFO - Collected 24200 following users so far
+2025-09-19 17:24:49,309 - INFO - Fetching following page 243
+2025-09-19 17:24:50,842 - INFO - Collected 24300 following users so far
+2025-09-19 17:24:50,842 - INFO - Fetching following page 244
+2025-09-19 17:24:52,393 - INFO - Collected 24400 following users so far
+2025-09-19 17:24:52,393 - INFO - Fetching following page 245
+2025-09-19 17:24:54,002 - INFO - Collected 24500 following users so far
+2025-09-19 17:24:54,002 - INFO - Fetching following page 246
+2025-09-19 17:24:55,519 - INFO - Collected 24600 following users so far
+2025-09-19 17:24:55,519 - INFO - Fetching following page 247
+2025-09-19 17:24:57,050 - INFO - Collected 24700 following users so far
+2025-09-19 17:24:57,050 - INFO - Fetching following page 248
+2025-09-19 17:24:58,962 - INFO - Collected 24800 following users so far
+2025-09-19 17:24:58,962 - INFO - Fetching following page 249
+2025-09-19 17:25:00,799 - INFO - Collected 24900 following users so far
+2025-09-19 17:25:00,799 - INFO - Fetching following page 250
+2025-09-19 17:25:02,587 - INFO - Collected 25000 following users so far
+2025-09-19 17:25:02,587 - INFO - Fetching following page 251
+2025-09-19 17:25:04,351 - INFO - Collected 25100 following users so far
+2025-09-19 17:25:04,351 - INFO - Fetching following page 252
+2025-09-19 17:25:05,929 - INFO - Collected 25200 following users so far
+2025-09-19 17:25:05,929 - INFO - Fetching following page 253
+2025-09-19 17:25:07,512 - INFO - Collected 25300 following users so far
+2025-09-19 17:25:07,512 - INFO - Fetching following page 254
+2025-09-19 17:25:09,140 - INFO - Collected 25400 following users so far
+2025-09-19 17:25:09,140 - INFO - Fetching following page 255
+2025-09-19 17:25:10,588 - INFO - Collected 25500 following users so far
+2025-09-19 17:25:10,589 - INFO - Fetching following page 256
+2025-09-19 17:25:13,009 - INFO - Collected 25600 following users so far
+2025-09-19 17:25:13,009 - INFO - Fetching following page 257
+2025-09-19 17:25:14,717 - INFO - Collected 25700 following users so far
+2025-09-19 17:25:14,717 - INFO - Fetching following page 258
+2025-09-19 17:25:16,447 - INFO - Collected 25800 following users so far
+2025-09-19 17:25:16,447 - INFO - Fetching following page 259
+2025-09-19 17:25:17,995 - INFO - Collected 25900 following users so far
+2025-09-19 17:25:17,996 - INFO - Fetching following page 260
+2025-09-19 17:25:19,576 - INFO - Collected 26000 following users so far
+2025-09-19 17:25:19,577 - INFO - Fetching following page 261
+2025-09-19 17:25:22,092 - INFO - Collected 26100 following users so far
+2025-09-19 17:25:22,092 - INFO - Fetching following page 262
+2025-09-19 17:25:23,922 - INFO - Collected 26200 following users so far
+2025-09-19 17:25:23,923 - INFO - Fetching following page 263
+2025-09-19 17:25:25,867 - INFO - Collected 26300 following users so far
+2025-09-19 17:25:25,868 - INFO - Fetching following page 264
+2025-09-19 17:25:27,514 - INFO - Collected 26400 following users so far
+2025-09-19 17:25:27,514 - INFO - Fetching following page 265
+2025-09-19 17:25:29,141 - INFO - Collected 26500 following users so far
+2025-09-19 17:25:29,141 - INFO - Fetching following page 266
+2025-09-19 17:25:30,694 - INFO - Collected 26600 following users so far
+2025-09-19 17:25:30,694 - INFO - Fetching following page 267
+2025-09-19 17:25:32,333 - INFO - Collected 26700 following users so far
+2025-09-19 17:25:32,333 - INFO - Fetching following page 268
+2025-09-19 17:25:34,339 - INFO - Collected 26800 following users so far
+2025-09-19 17:25:34,339 - INFO - Fetching following page 269
+2025-09-19 17:25:36,090 - INFO - Collected 26900 following users so far
+2025-09-19 17:25:36,090 - INFO - Fetching following page 270
+2025-09-19 17:25:37,716 - INFO - Collected 27000 following users so far
+2025-09-19 17:25:37,716 - INFO - Fetching following page 271
+2025-09-19 17:25:39,490 - INFO - Collected 27100 following users so far
+2025-09-19 17:25:39,491 - INFO - Fetching following page 272
+2025-09-19 17:25:41,403 - INFO - Collected 27200 following users so far
+2025-09-19 17:25:41,403 - INFO - Fetching following page 273
+2025-09-19 17:25:42,977 - INFO - Collected 27300 following users so far
+2025-09-19 17:25:42,978 - INFO - Fetching following page 274
+2025-09-19 17:25:45,784 - INFO - Collected 27400 following users so far
+2025-09-19 17:25:45,785 - INFO - Fetching following page 275
+2025-09-19 17:25:47,338 - INFO - Collected 27500 following users so far
+2025-09-19 17:25:47,339 - INFO - Fetching following page 276
+2025-09-19 17:25:49,093 - INFO - Collected 27600 following users so far
+2025-09-19 17:25:49,094 - INFO - Fetching following page 277
+2025-09-19 17:25:51,110 - INFO - Collected 27700 following users so far
+2025-09-19 17:25:51,110 - INFO - Fetching following page 278
+2025-09-19 17:25:52,933 - INFO - Collected 27800 following users so far
+2025-09-19 17:25:52,934 - INFO - Fetching following page 279
+2025-09-19 17:25:54,486 - INFO - Collected 27900 following users so far
+2025-09-19 17:25:54,486 - INFO - Fetching following page 280
+2025-09-19 17:25:56,115 - INFO - Collected 28000 following users so far
+2025-09-19 17:25:56,115 - INFO - Fetching following page 281
+2025-09-19 17:25:57,697 - INFO - Collected 28100 following users so far
+2025-09-19 17:25:57,697 - INFO - Fetching following page 282
+2025-09-19 17:25:59,817 - INFO - Collected 28200 following users so far
+2025-09-19 17:25:59,818 - INFO - Fetching following page 283
+2025-09-19 17:26:01,342 - INFO - Collected 28300 following users so far
+2025-09-19 17:26:01,342 - INFO - Fetching following page 284
+2025-09-19 17:26:02,971 - INFO - Collected 28400 following users so far
+2025-09-19 17:26:02,971 - INFO - Fetching following page 285
+2025-09-19 17:26:04,991 - INFO - Collected 28500 following users so far
+2025-09-19 17:26:04,991 - INFO - Fetching following page 286
+2025-09-19 17:26:06,655 - INFO - Collected 28600 following users so far
+2025-09-19 17:26:06,656 - INFO - Fetching following page 287
+2025-09-19 17:26:08,451 - INFO - Collected 28700 following users so far
+2025-09-19 17:26:08,452 - INFO - Fetching following page 288
+2025-09-19 17:26:10,003 - INFO - Collected 28800 following users so far
+2025-09-19 17:26:10,004 - INFO - Fetching following page 289
+2025-09-19 17:26:11,686 - INFO - Collected 28900 following users so far
+2025-09-19 17:26:11,686 - INFO - Fetching following page 290
+2025-09-19 17:26:13,259 - INFO - Collected 29000 following users so far
+2025-09-19 17:26:13,260 - INFO - Fetching following page 291
+2025-09-19 17:26:15,253 - INFO - Collected 29100 following users so far
+2025-09-19 17:26:15,254 - INFO - Fetching following page 292
+2025-09-19 17:26:16,755 - INFO - Collected 29200 following users so far
+2025-09-19 17:26:16,755 - INFO - Fetching following page 293
+2025-09-19 17:26:18,387 - INFO - Collected 29300 following users so far
+2025-09-19 17:26:18,387 - INFO - Fetching following page 294
+2025-09-19 17:26:20,115 - INFO - Collected 29400 following users so far
+2025-09-19 17:26:20,115 - INFO - Fetching following page 295
+2025-09-19 17:26:21,739 - INFO - Collected 29500 following users so far
+2025-09-19 17:26:21,739 - INFO - Fetching following page 296
+2025-09-19 17:26:23,261 - INFO - Collected 29600 following users so far
+2025-09-19 17:26:23,261 - INFO - Fetching following page 297
+2025-09-19 17:26:24,893 - INFO - Collected 29700 following users so far
+2025-09-19 17:26:24,893 - INFO - Fetching following page 298
+2025-09-19 17:26:26,551 - INFO - Collected 29800 following users so far
+2025-09-19 17:26:26,552 - INFO - Fetching following page 299
+2025-09-19 17:26:28,592 - INFO - Collected 29900 following users so far
+2025-09-19 17:26:28,593 - INFO - Fetching following page 300
+2025-09-19 17:26:30,410 - INFO - Collected 30000 following users so far
+2025-09-19 17:26:30,410 - INFO - Fetching following page 301
+2025-09-19 17:26:32,603 - INFO - Collected 30100 following users so far
+2025-09-19 17:26:32,604 - INFO - Fetching following page 302
+2025-09-19 17:26:34,721 - INFO - Collected 30200 following users so far
+2025-09-19 17:26:34,721 - INFO - Fetching following page 303
+2025-09-19 17:26:36,299 - INFO - Collected 30300 following users so far
+2025-09-19 17:26:36,300 - INFO - Fetching following page 304
+2025-09-19 17:26:38,047 - INFO - Collected 30400 following users so far
+2025-09-19 17:26:38,047 - INFO - Fetching following page 305
+2025-09-19 17:26:40,016 - INFO - Collected 30500 following users so far
+2025-09-19 17:26:40,016 - INFO - Fetching following page 306
+2025-09-19 17:26:41,568 - INFO - Collected 30600 following users so far
+2025-09-19 17:26:41,568 - INFO - Fetching following page 307
+2025-09-19 17:26:43,285 - INFO - Collected 30700 following users so far
+2025-09-19 17:26:43,286 - INFO - Fetching following page 308
+2025-09-19 17:26:44,894 - INFO - Collected 30800 following users so far
+2025-09-19 17:26:44,895 - INFO - Fetching following page 309
+2025-09-19 17:26:46,492 - INFO - Collected 30900 following users so far
+2025-09-19 17:26:46,493 - INFO - Fetching following page 310
+2025-09-19 17:26:48,074 - INFO - Collected 31000 following users so far
+2025-09-19 17:26:48,074 - INFO - Fetching following page 311
+2025-09-19 17:26:49,844 - INFO - Collected 31100 following users so far
+2025-09-19 17:26:49,845 - INFO - Fetching following page 312
+2025-09-19 17:26:52,343 - INFO - Collected 31200 following users so far
+2025-09-19 17:26:52,344 - INFO - Fetching following page 313
+2025-09-19 17:26:53,967 - INFO - Collected 31300 following users so far
+2025-09-19 17:26:53,967 - INFO - Fetching following page 314
+2025-09-19 17:26:55,566 - INFO - Collected 31400 following users so far
+2025-09-19 17:26:55,566 - INFO - Fetching following page 315
+2025-09-19 17:26:57,204 - INFO - Collected 31500 following users so far
+2025-09-19 17:26:57,204 - INFO - Fetching following page 316
+2025-09-19 17:26:59,213 - INFO - Collected 31600 following users so far
+2025-09-19 17:26:59,214 - INFO - Fetching following page 317
+2025-09-19 17:27:00,840 - INFO - Collected 31700 following users so far
+2025-09-19 17:27:00,840 - INFO - Fetching following page 318
+2025-09-19 17:27:02,358 - INFO - Collected 31800 following users so far
+2025-09-19 17:27:02,359 - INFO - Fetching following page 319
+2025-09-19 17:27:04,099 - INFO - Collected 31900 following users so far
+2025-09-19 17:27:04,099 - INFO - Fetching following page 320
+2025-09-19 17:27:06,013 - INFO - Collected 32000 following users so far
+2025-09-19 17:27:06,014 - INFO - Fetching following page 321
+2025-09-19 17:27:08,084 - INFO - Collected 32100 following users so far
+2025-09-19 17:27:08,084 - INFO - Fetching following page 322
+2025-09-19 17:27:09,655 - INFO - Collected 32200 following users so far
+2025-09-19 17:27:09,657 - INFO - Fetching following page 323
+2025-09-19 17:27:11,789 - INFO - Collected 32300 following users so far
+2025-09-19 17:27:11,789 - INFO - Fetching following page 324
+2025-09-19 17:27:13,411 - INFO - Collected 32400 following users so far
+2025-09-19 17:27:13,412 - INFO - Fetching following page 325
+2025-09-19 17:27:15,078 - INFO - Collected 32500 following users so far
+2025-09-19 17:27:15,079 - INFO - Fetching following page 326
+2025-09-19 17:27:16,939 - INFO - Collected 32600 following users so far
+2025-09-19 17:27:16,939 - INFO - Fetching following page 327
+2025-09-19 17:27:18,644 - INFO - Collected 32700 following users so far
+2025-09-19 17:27:18,644 - INFO - Fetching following page 328
+2025-09-19 17:27:20,370 - INFO - Collected 32800 following users so far
+2025-09-19 17:27:20,370 - INFO - Fetching following page 329
+2025-09-19 17:27:22,173 - INFO - Collected 32900 following users so far
+2025-09-19 17:27:22,173 - INFO - Fetching following page 330
+2025-09-19 17:27:24,052 - INFO - Collected 33000 following users so far
+2025-09-19 17:27:24,053 - INFO - Fetching following page 331
+2025-09-19 17:27:26,021 - INFO - Collected 33100 following users so far
+2025-09-19 17:27:26,021 - INFO - Fetching following page 332
+2025-09-19 17:27:27,547 - INFO - Collected 33200 following users so far
+2025-09-19 17:27:27,547 - INFO - Fetching following page 333
+2025-09-19 17:27:29,238 - INFO - Collected 33300 following users so far
+2025-09-19 17:27:29,239 - INFO - Fetching following page 334
+2025-09-19 17:27:30,793 - INFO - Collected 33400 following users so far
+2025-09-19 17:27:30,793 - INFO - Fetching following page 335
+2025-09-19 17:27:32,285 - INFO - Collected 33500 following users so far
+2025-09-19 17:27:32,285 - INFO - Fetching following page 336
+2025-09-19 17:27:34,083 - INFO - Collected 33600 following users so far
+2025-09-19 17:27:34,083 - INFO - Fetching following page 337
+2025-09-19 17:27:35,782 - INFO - Collected 33700 following users so far
+2025-09-19 17:27:35,782 - INFO - Fetching following page 338
+2025-09-19 17:27:37,352 - INFO - Collected 33800 following users so far
+2025-09-19 17:27:37,352 - INFO - Fetching following page 339
+2025-09-19 17:27:39,272 - INFO - Collected 33900 following users so far
+2025-09-19 17:27:39,273 - INFO - Fetching following page 340
+2025-09-19 17:27:41,002 - INFO - Collected 34000 following users so far
+2025-09-19 17:27:41,002 - INFO - Fetching following page 341
+2025-09-19 17:27:43,187 - INFO - Collected 34100 following users so far
+2025-09-19 17:27:43,187 - INFO - Fetching following page 342
+2025-09-19 17:27:45,049 - INFO - Collected 34200 following users so far
+2025-09-19 17:27:45,049 - INFO - Fetching following page 343
+2025-09-19 17:27:46,838 - INFO - Collected 34300 following users so far
+2025-09-19 17:27:46,838 - INFO - Fetching following page 344
+2025-09-19 17:27:48,415 - INFO - Collected 34400 following users so far
+2025-09-19 17:27:48,416 - INFO - Fetching following page 345
+2025-09-19 17:27:50,285 - INFO - Collected 34500 following users so far
+2025-09-19 17:27:50,286 - INFO - Fetching following page 346
+2025-09-19 17:27:52,032 - INFO - Collected 34600 following users so far
+2025-09-19 17:27:52,032 - INFO - Fetching following page 347
+2025-09-19 17:27:53,680 - INFO - Collected 34700 following users so far
+2025-09-19 17:27:53,680 - INFO - Fetching following page 348
+2025-09-19 17:27:55,212 - INFO - Collected 34800 following users so far
+2025-09-19 17:27:55,212 - INFO - Fetching following page 349
+2025-09-19 17:27:56,889 - INFO - Collected 34900 following users so far
+2025-09-19 17:27:56,890 - INFO - Fetching following page 350
+2025-09-19 17:27:58,888 - INFO - Collected 35000 following users so far
+2025-09-19 17:27:58,888 - INFO - Fetching following page 351
+2025-09-19 17:28:00,480 - INFO - Collected 35100 following users so far
+2025-09-19 17:28:00,481 - INFO - Fetching following page 352
+2025-09-19 17:28:02,498 - INFO - Collected 35200 following users so far
+2025-09-19 17:28:02,498 - INFO - Fetching following page 353
+2025-09-19 17:28:04,050 - INFO - Collected 35300 following users so far
+2025-09-19 17:28:04,051 - INFO - Fetching following page 354
+2025-09-19 17:28:05,802 - INFO - Collected 35400 following users so far
+2025-09-19 17:28:05,802 - INFO - Fetching following page 355
+2025-09-19 17:28:07,865 - INFO - Collected 35500 following users so far
+2025-09-19 17:28:07,865 - INFO - Fetching following page 356
+2025-09-19 17:28:09,856 - INFO - Collected 35600 following users so far
+2025-09-19 17:28:09,857 - INFO - Fetching following page 357
+2025-09-19 17:28:11,500 - INFO - Collected 35700 following users so far
+2025-09-19 17:28:11,500 - INFO - Fetching following page 358
+2025-09-19 17:28:13,528 - INFO - Collected 35800 following users so far
+2025-09-19 17:28:13,528 - INFO - Fetching following page 359
+2025-09-19 17:28:15,125 - INFO - Collected 35900 following users so far
+2025-09-19 17:28:15,126 - INFO - Fetching following page 360
+2025-09-19 17:28:17,097 - INFO - Collected 36000 following users so far
+2025-09-19 17:28:17,097 - INFO - Fetching following page 361
+2025-09-19 17:28:19,123 - INFO - Collected 36100 following users so far
+2025-09-19 17:28:19,123 - INFO - Fetching following page 362
+2025-09-19 17:28:20,822 - INFO - Collected 36200 following users so far
+2025-09-19 17:28:20,823 - INFO - Fetching following page 363
+2025-09-19 17:28:22,783 - INFO - Collected 36300 following users so far
+2025-09-19 17:28:22,783 - INFO - Fetching following page 364
+2025-09-19 17:28:24,770 - INFO - Collected 36400 following users so far
+2025-09-19 17:28:24,771 - INFO - Fetching following page 365
+2025-09-19 17:28:26,695 - INFO - Collected 36500 following users so far
+2025-09-19 17:28:26,695 - INFO - Fetching following page 366
+2025-09-19 17:28:28,681 - INFO - Collected 36600 following users so far
+2025-09-19 17:28:28,681 - INFO - Fetching following page 367
+2025-09-19 17:28:30,458 - INFO - Collected 36700 following users so far
+2025-09-19 17:28:30,459 - INFO - Fetching following page 368
+2025-09-19 17:28:32,122 - INFO - Collected 36800 following users so far
+2025-09-19 17:28:32,123 - INFO - Fetching following page 369
+2025-09-19 17:28:34,161 - INFO - Collected 36900 following users so far
+2025-09-19 17:28:34,161 - INFO - Fetching following page 370
+2025-09-19 17:28:35,696 - INFO - Collected 37000 following users so far
+2025-09-19 17:28:35,697 - INFO - Fetching following page 371
+2025-09-19 17:28:37,605 - INFO - Collected 37100 following users so far
+2025-09-19 17:28:37,605 - INFO - Fetching following page 372
+2025-09-19 17:28:39,884 - INFO - Collected 37200 following users so far
+2025-09-19 17:28:39,884 - INFO - Fetching following page 373
+2025-09-19 17:28:41,586 - INFO - Collected 37300 following users so far
+2025-09-19 17:28:41,587 - INFO - Fetching following page 374
+2025-09-19 17:28:43,231 - INFO - Collected 37400 following users so far
+2025-09-19 17:28:43,232 - INFO - Fetching following page 375
+2025-09-19 17:28:44,898 - INFO - Collected 37500 following users so far
+2025-09-19 17:28:44,899 - INFO - Fetching following page 376
+2025-09-19 17:28:46,652 - INFO - Collected 37600 following users so far
+2025-09-19 17:28:46,653 - INFO - Fetching following page 377
+2025-09-19 17:28:48,573 - INFO - Collected 37700 following users so far
+2025-09-19 17:28:48,574 - INFO - Fetching following page 378
+2025-09-19 17:28:50,269 - INFO - Collected 37800 following users so far
+2025-09-19 17:28:50,269 - INFO - Fetching following page 379
+2025-09-19 17:28:51,972 - INFO - Collected 37900 following users so far
+2025-09-19 17:28:51,972 - INFO - Fetching following page 380
+2025-09-19 17:28:53,820 - INFO - Collected 38000 following users so far
+2025-09-19 17:28:53,820 - INFO - Fetching following page 381
+2025-09-19 17:28:55,925 - INFO - Collected 38100 following users so far
+2025-09-19 17:28:55,925 - INFO - Fetching following page 382
+2025-09-19 17:28:57,753 - INFO - Collected 38200 following users so far
+2025-09-19 17:28:57,753 - INFO - Fetching following page 383
+2025-09-19 17:28:59,527 - INFO - Collected 38300 following users so far
+2025-09-19 17:28:59,528 - INFO - Fetching following page 384
+2025-09-19 17:29:01,504 - INFO - Collected 38400 following users so far
+2025-09-19 17:29:01,504 - INFO - Fetching following page 385
+2025-09-19 17:29:03,149 - INFO - Collected 38500 following users so far
+2025-09-19 17:29:03,149 - INFO - Fetching following page 386
+2025-09-19 17:29:04,921 - INFO - Collected 38600 following users so far
+2025-09-19 17:29:04,921 - INFO - Fetching following page 387
+2025-09-19 17:29:07,056 - INFO - Collected 38700 following users so far
+2025-09-19 17:29:07,056 - INFO - Fetching following page 388
+2025-09-19 17:29:08,811 - INFO - Collected 38800 following users so far
+2025-09-19 17:29:08,811 - INFO - Fetching following page 389
+2025-09-19 17:29:10,819 - INFO - Collected 38900 following users so far
+2025-09-19 17:29:10,820 - INFO - Fetching following page 390
+2025-09-19 17:29:12,476 - INFO - Collected 39000 following users so far
+2025-09-19 17:29:12,479 - INFO - Fetching following page 391
+2025-09-19 17:29:14,169 - INFO - Collected 39100 following users so far
+2025-09-19 17:29:14,169 - INFO - Fetching following page 392
+2025-09-19 17:29:15,966 - INFO - Collected 39200 following users so far
+2025-09-19 17:29:15,966 - INFO - Fetching following page 393
+2025-09-19 17:29:17,576 - INFO - Collected 39300 following users so far
+2025-09-19 17:29:17,576 - INFO - Fetching following page 394
+2025-09-19 17:29:19,305 - INFO - Collected 39400 following users so far
+2025-09-19 17:29:19,305 - INFO - Fetching following page 395
+2025-09-19 17:29:21,131 - INFO - Collected 39500 following users so far
+2025-09-19 17:29:21,131 - INFO - Fetching following page 396
+2025-09-19 17:29:22,799 - INFO - Collected 39600 following users so far
+2025-09-19 17:29:22,799 - INFO - Fetching following page 397
+2025-09-19 17:29:24,541 - INFO - Collected 39700 following users so far
+2025-09-19 17:29:24,541 - INFO - Fetching following page 398
+2025-09-19 17:29:26,371 - INFO - Collected 39800 following users so far
+2025-09-19 17:29:26,372 - INFO - Fetching following page 399
+2025-09-19 17:29:28,427 - INFO - Collected 39900 following users so far
+2025-09-19 17:29:28,428 - INFO - Fetching following page 400
+2025-09-19 17:29:30,249 - INFO - Collected 40000 following users so far
+2025-09-19 17:29:30,249 - INFO - Fetching following page 401
+2025-09-19 17:29:33,237 - INFO - Collected 40100 following users so far
+2025-09-19 17:29:33,237 - INFO - Fetching following page 402
+2025-09-19 17:29:34,853 - INFO - Collected 40200 following users so far
+2025-09-19 17:29:34,853 - INFO - Fetching following page 403
+2025-09-19 17:29:36,503 - INFO - Collected 40300 following users so far
+2025-09-19 17:29:36,503 - INFO - Fetching following page 404
+2025-09-19 17:29:38,221 - INFO - Collected 40400 following users so far
+2025-09-19 17:29:38,221 - INFO - Fetching following page 405
+2025-09-19 17:29:40,455 - INFO - Collected 40500 following users so far
+2025-09-19 17:29:40,455 - INFO - Fetching following page 406
+2025-09-19 17:29:42,445 - INFO - Collected 40600 following users so far
+2025-09-19 17:29:42,445 - INFO - Fetching following page 407
+2025-09-19 17:29:44,390 - INFO - Collected 40700 following users so far
+2025-09-19 17:29:44,390 - INFO - Fetching following page 408
+2025-09-19 17:29:46,081 - INFO - Collected 40800 following users so far
+2025-09-19 17:29:46,081 - INFO - Fetching following page 409
+2025-09-19 17:29:47,850 - INFO - Collected 40900 following users so far
+2025-09-19 17:29:47,850 - INFO - Fetching following page 410
+2025-09-19 17:29:49,980 - INFO - Collected 41000 following users so far
+2025-09-19 17:29:49,981 - INFO - Fetching following page 411
+2025-09-19 17:29:52,035 - INFO - Collected 41100 following users so far
+2025-09-19 17:29:52,035 - INFO - Fetching following page 412
+2025-09-19 17:29:54,032 - INFO - Collected 41200 following users so far
+2025-09-19 17:29:54,032 - INFO - Fetching following page 413
+2025-09-19 17:29:55,953 - INFO - Collected 41300 following users so far
+2025-09-19 17:29:55,953 - INFO - Fetching following page 414
+2025-09-19 17:29:59,034 - INFO - Collected 41400 following users so far
+2025-09-19 17:29:59,034 - INFO - Fetching following page 415
+2025-09-19 17:30:00,728 - INFO - Collected 41500 following users so far
+2025-09-19 17:30:00,728 - INFO - Fetching following page 416
+2025-09-19 17:30:02,648 - INFO - Collected 41600 following users so far
+2025-09-19 17:30:02,648 - INFO - Fetching following page 417
+2025-09-19 17:30:04,403 - INFO - Collected 41700 following users so far
+2025-09-19 17:30:04,403 - INFO - Fetching following page 418
+2025-09-19 17:30:06,039 - INFO - Collected 41800 following users so far
+2025-09-19 17:30:06,040 - INFO - Fetching following page 419
+2025-09-19 17:30:07,720 - INFO - Collected 41900 following users so far
+2025-09-19 17:30:07,720 - INFO - Fetching following page 420
+2025-09-19 17:30:09,519 - INFO - Collected 42000 following users so far
+2025-09-19 17:30:09,519 - INFO - Fetching following page 421
+2025-09-19 17:30:11,188 - INFO - Collected 42100 following users so far
+2025-09-19 17:30:11,189 - INFO - Fetching following page 422
+2025-09-19 17:30:12,854 - INFO - Collected 42200 following users so far
+2025-09-19 17:30:12,855 - INFO - Fetching following page 423
+2025-09-19 17:30:14,684 - INFO - Collected 42300 following users so far
+2025-09-19 17:30:14,684 - INFO - Fetching following page 424
+2025-09-19 17:30:16,465 - INFO - Collected 42400 following users so far
+2025-09-19 17:30:16,465 - INFO - Fetching following page 425
+2025-09-19 17:30:18,406 - INFO - Collected 42500 following users so far
+2025-09-19 17:30:18,408 - INFO - Fetching following page 426
+2025-09-19 17:30:20,371 - INFO - Collected 42600 following users so far
+2025-09-19 17:30:20,371 - INFO - Fetching following page 427
+2025-09-19 17:30:22,305 - INFO - Collected 42700 following users so far
+2025-09-19 17:30:22,305 - INFO - Fetching following page 428
+2025-09-19 17:30:24,058 - INFO - Collected 42800 following users so far
+2025-09-19 17:30:24,058 - INFO - Fetching following page 429
+2025-09-19 17:30:25,689 - INFO - Collected 42900 following users so far
+2025-09-19 17:30:25,689 - INFO - Fetching following page 430
+2025-09-19 17:30:27,633 - INFO - Collected 43000 following users so far
+2025-09-19 17:30:27,633 - INFO - Fetching following page 431
+2025-09-19 17:30:29,411 - INFO - Collected 43100 following users so far
+2025-09-19 17:30:29,411 - INFO - Fetching following page 432
+2025-09-19 17:30:31,209 - INFO - Collected 43200 following users so far
+2025-09-19 17:30:31,210 - INFO - Fetching following page 433
+2025-09-19 17:30:33,517 - INFO - Collected 43300 following users so far
+2025-09-19 17:30:33,517 - INFO - Fetching following page 434
+2025-09-19 17:30:35,193 - INFO - Collected 43400 following users so far
+2025-09-19 17:30:35,193 - INFO - Fetching following page 435
+2025-09-19 17:30:36,850 - INFO - Collected 43500 following users so far
+2025-09-19 17:30:36,850 - INFO - Fetching following page 436
+2025-09-19 17:30:39,306 - INFO - Collected 43600 following users so far
+2025-09-19 17:30:39,306 - INFO - Fetching following page 437
+2025-09-19 17:30:40,976 - INFO - Collected 43700 following users so far
+2025-09-19 17:30:40,976 - INFO - Fetching following page 438
+2025-09-19 17:30:42,846 - INFO - Collected 43800 following users so far
+2025-09-19 17:30:42,847 - INFO - Fetching following page 439
+2025-09-19 17:30:44,576 - INFO - Collected 43900 following users so far
+2025-09-19 17:30:44,577 - INFO - Fetching following page 440
+2025-09-19 17:30:46,748 - INFO - Collected 44000 following users so far
+2025-09-19 17:30:46,748 - INFO - Fetching following page 441
+2025-09-19 17:30:48,506 - INFO - Collected 44100 following users so far
+2025-09-19 17:30:48,506 - INFO - Fetching following page 442
+2025-09-19 17:30:50,176 - INFO - Collected 44200 following users so far
+2025-09-19 17:30:50,178 - INFO - Fetching following page 443
+2025-09-19 17:30:52,299 - INFO - Collected 44300 following users so far
+2025-09-19 17:30:52,300 - INFO - Fetching following page 444
+2025-09-19 17:30:54,000 - INFO - Collected 44400 following users so far
+2025-09-19 17:30:54,000 - INFO - Fetching following page 445
+2025-09-19 17:30:55,922 - INFO - Collected 44500 following users so far
+2025-09-19 17:30:55,923 - INFO - Fetching following page 446
+2025-09-19 17:30:58,391 - INFO - Collected 44600 following users so far
+2025-09-19 17:30:58,391 - INFO - Fetching following page 447
+2025-09-19 17:31:00,175 - INFO - Collected 44700 following users so far
+2025-09-19 17:31:00,176 - INFO - Fetching following page 448
+2025-09-19 17:31:02,259 - INFO - Collected 44800 following users so far
+2025-09-19 17:31:02,259 - INFO - Fetching following page 449
+2025-09-19 17:31:05,019 - INFO - Collected 44900 following users so far
+2025-09-19 17:31:05,020 - INFO - Fetching following page 450
+2025-09-19 17:31:06,902 - INFO - Collected 45000 following users so far
+2025-09-19 17:31:06,902 - INFO - Fetching following page 451
+2025-09-19 17:31:08,822 - INFO - Collected 45100 following users so far
+2025-09-19 17:31:08,824 - INFO - Fetching following page 452
+2025-09-19 17:31:10,832 - INFO - Collected 45200 following users so far
+2025-09-19 17:31:10,833 - INFO - Fetching following page 453
+2025-09-19 17:31:12,785 - INFO - Collected 45300 following users so far
+2025-09-19 17:31:12,786 - INFO - Fetching following page 454
+2025-09-19 17:31:14,475 - INFO - Collected 45400 following users so far
+2025-09-19 17:31:14,476 - INFO - Fetching following page 455
+2025-09-19 17:31:16,658 - INFO - Collected 45500 following users so far
+2025-09-19 17:31:16,658 - INFO - Fetching following page 456
+2025-09-19 17:31:18,395 - INFO - Collected 45600 following users so far
+2025-09-19 17:31:18,396 - INFO - Fetching following page 457
+2025-09-19 17:31:20,098 - INFO - Collected 45700 following users so far
+2025-09-19 17:31:20,099 - INFO - Fetching following page 458
+2025-09-19 17:31:21,822 - INFO - Collected 45800 following users so far
+2025-09-19 17:31:21,823 - INFO - Fetching following page 459
+2025-09-19 17:31:23,530 - INFO - Collected 45900 following users so far
+2025-09-19 17:31:23,530 - INFO - Fetching following page 460
+2025-09-19 17:31:25,511 - INFO - Collected 46000 following users so far
+2025-09-19 17:31:25,512 - INFO - Fetching following page 461
+2025-09-19 17:31:27,280 - INFO - Collected 46095 following users so far
+2025-09-19 17:31:27,281 - INFO - Fetching following page 462
+2025-09-19 17:31:28,983 - INFO - Total following users collected: 46095
+2025-09-19 17:31:29,112 - ERROR - Sync failed: UNIQUE constraint failed: following.username
+2025-09-19 17:31:29,113 - ERROR - Operation failed: UNIQUE constraint failed: following.username
